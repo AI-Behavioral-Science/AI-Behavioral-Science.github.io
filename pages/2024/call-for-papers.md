@@ -44,9 +44,9 @@ All deadlines are **11:59PM Anywhere on Earth (AoE)**.
 
 ## Submission
 
-Submission link to be announced.
-<!-- Abstracts and papers can be submitted through CMT: <br> -->
-<!-- [https://cmt3.research.microsoft.com/GLB2023](https://cmt3.research.microsoft.com/GLB2023) -->
+<!-- Submission link to be announced. -->
+Abstracts and papers can be submitted through EasyChair: <br> 
+[https://easychair.org/my/conference?conf=aibs2024](https://easychair.org/my/conference?conf=aibs2024)
 
 ## Format
 
