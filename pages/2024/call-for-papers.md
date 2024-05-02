@@ -1,6 +1,6 @@
 ---
 permalink: /2024/call-for-papers
-title: "AI Behavioral Science Workshop 2024 <br> Call for Papers"
+title: "Call for Papers - AIBS 2024"
 layout: splash
 browser-title: "AI Behavioral Science"
 masthead-title: "AI Behavioral Science"

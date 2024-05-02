@@ -1,6 +1,6 @@
 ---
 permalink: /2024
-title: "The First Workshop on AI Behavioral Science"
+title: "The First Workshop on AI Behavioral Science <br> AIBS 2024"
 excerpt: Date and time to be determined <br> Centre de Convencions Internacional de Barcelona, Spain <br> Held in conjunction with <a href="https://kdd2024.kdd.org/">KDD 2024</a>
 browser-title: "AI Behavioral Science"
 masthead-title: "AI Behavioral Science"
@@ -89,7 +89,7 @@ In response to these evolving challenges and opportunities, this workshop calls 
 Critical questions include: 
 Do AIs have personalities? How to describe the patterns of AI behaviors? How to quantify the similarity between AI and humans behaviorally? How to conceal the objectives of AI (rather than generating next words) and align them with the distribution of human objectives? How to model and optimize human-AI collaboration? What are the unique challenges in AI behavioral studies (e.g., sensitivity in prompting)? What is the key difference between AI behavioral science and human behavioral science? Do we need to design new experiment methodologies and measurements tailored for AI? What could be the potential applications (e.g., AI agents)? 
 
-The First Wrokshop on AI Behavioral Science aims to create a collaborative and interdisciplinary platform that brings together researchers from different fields, especially generative AI, data mining, and behavioral sciences to discuss these questions. By fostering an open and forward-looking environment, our ultimate goal is to facilitate discussions on the current landscape of AI behavioral science at large. This workshop provides an opportunity for participants to share insights, exchange ideas, and explore innovative approaches in the field. 
+AIBS 2024 aims to create a collaborative and interdisciplinary platform that brings together researchers from different fields, especially generative AI, data mining, and behavioral sciences to discuss these questions. By fostering an open and forward-looking environment, our ultimate goal is to facilitate discussions on the current landscape of AI behavioral science at large. This workshop provides an opportunity for participants to share insights, exchange ideas, and explore innovative approaches in the field. 
 
 This workshop will be a **non-archival** workshop; we are excited to host this workshop **in person** in conjunction with [**KDD 2024**](https://kdd2024.kdd.org/). Please click [here](https://kdd2024.kdd.org/registration/) for KDD 2024 registration.
 
@@ -160,7 +160,7 @@ To be announced.
 </ul> -->
 
 # Organization
-Please contact us through <a target="_blank" href="https://mailhide.io/e/5RV52Tlm">this email address</a> if you have any questions.
+Please contact us through <a target="_blank" href="http://scr.im/aibs">this email address</a> if you have any questions.
 
 {% include feature_row id="organizers"%}
 
