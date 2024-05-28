@@ -1,7 +1,7 @@
 ---
 permalink: /2024
 title: "The First Workshop on AI Behavioral Science <br> AIBS 2024"
-excerpt: Date and time to be determined <br> Centre de Convencions Internacional de Barcelona, Spain <br> Held in conjunction with <a href="https://kdd2024.kdd.org/">KDD 2024</a>
+excerpt: August 26, 2024 <br> Centre de Convencions Internacional de Barcelona, Spain <br> Held in conjunction with <a href="https://kdd2024.kdd.org/">KDD 2024</a>
 browser-title: "AI Behavioral Science"
 masthead-title: "AI Behavioral Science"
 masthead-subtitle: "@KDD 2024"
