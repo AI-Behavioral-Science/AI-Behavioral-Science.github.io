@@ -24,7 +24,7 @@ navigation:
   # - title: "Accepted Papers"
   #   url: /glb2022#accepted-papers
   - title: "Organization"
-    url: /2024#organizers
+    url: /2024#organization
   # - title: "Past Editions"
   #   url: /all-editions
 
