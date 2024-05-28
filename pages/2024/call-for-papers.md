@@ -49,7 +49,7 @@ The workshop welcomes submissions describing original research findings as well 
 ## Important Dates
 
 All deadlines are **11:59PM Anywhere on Earth (AoE)**.
-- **Submission deadline**: May 28, 2024
+- **Submission deadline**: ~~May 28, 2024~~ June 17, 2024
 - **Acceptance notification**: June 28, 2024
 - **Camera-ready version due**: July 11, 2024
 - **Workshop**: August 26, 2024

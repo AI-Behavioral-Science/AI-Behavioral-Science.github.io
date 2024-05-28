@@ -91,6 +91,9 @@ The workshop aims to create a collaborative and interdisciplinary platform that 
 
 For more information, please visit the [Call for Papers](/2024/call-for-papers) page. 
 
+<span style="font-weight: bold; color: red;">Note that the submission deadline has been changed to June 17 (previously May 28). </span> 
+
+
 # Schedule
 
 To be announced.
