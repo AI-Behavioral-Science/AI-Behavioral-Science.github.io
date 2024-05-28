@@ -34,29 +34,26 @@ We encourage paper submissions relevant to (but not limited to) the following to
 - Applications of AI to investigating human behaviors, including but not limited to economics, psychology, sociology, education, healthcare, and future of work. 
 - Ethics of AI behavioral science, including but not limited to studies that promote fairness, diversity, and representation, benefiting individuals, groups, and society at large.
 
-
-## Important Dates
-All deadlines are **11:59PM Anywhere on Earth (AoE)**.
-- **Submission deadline**: May 28, 2024
-- **Acceptance notification**: Jun. 28, 2024
-- **Camera-ready version due**: To be announced
-- **Workshop**: To be announced
-
 ## Submission
 
+The workshop welcomes submissions describing original research findings as well as relevant studies that are published recently in high-quality venues. 
+
+* **Previously unpublished manuscripts** should be submitted as a PDF file in no longer than 4 pages (plus unlimited pages for references and appendices), according to the new ACM format published in [ACM guidelines](http://www.acm.org/publications/proceedings-template), selecting the generic “sigconf” sample (see the guideline of KDD 2024). Appendices should be included in the same file with the main manuscript. 
+* **Manuscripts that have been published (including publically available preprints)** can be submitted in its original format and will be lightly reviewed. 
+* All submissions should be made through [https://easychair.org/conferences/?conf=aibs2024](https://easychair.org/conferences/?conf=aibs2024). 
+
 <!-- Submission link to be announced. -->
-Abstracts and papers can be submitted through EasyChair: <br> 
-[https://easychair.org/my/conference?conf=aibs2024](https://easychair.org/my/conference?conf=aibs2024)
+<!-- Abstracts and papers can be submitted through EasyChair: <br>  -->
+<!-- [https://easychair.org/my/conference?conf=aibs2024](https://easychair.org/my/conference?conf=aibs2024) -->
 
-## Format
+## Important Dates
 
-- For unpublished submissions, please submit a paper no longer than *4 pages* (excluding references and the appendices) using [the ACM “sigconf” LaTeX template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) (see [the instruction by KDD 2024](https://kdd2024.kdd.org/research-track-call-for-papers/)). 
-The recommend setting for LaTex file manuscript is
-```latex
-\documentclass[sigconf, review]{acmart}
-```
-If your submission includes appendices, it should be included in the same file with the main manuscript.
-- The submission is single-blinded for the ease of data and code sharing. The reviewers are anonymized but the authors do not need to be anonymized in the submission. 
-- This workshop is *non-archival*. Relevant findings that have been recently published are also welcome. For already published submissions, the paper can be submitted in the original format. These submissions will be very lightly reviewed for their relevance to this workshop.
-<!-- - Authors are *strongly encouraged* to include the corresponding datasets and code as supplementary materials in their submission. For large datasets or repositories, the authors can provide an external link through Github, Google drive, Dropbox, OneDrive, or Box. We limit the choice of storage platforms for security considerations. Please email the organizers if none of the listed platforms works for you. -->
-<!-- - If the data cannot be made publicly available, an extra section is required to illustrate how the results of the established benchmark may generalize to other graph data. -->
+All deadlines are **11:59PM Anywhere on Earth (AoE)**.
+- **Submission deadline**: May 28, 2024
+- **Acceptance notification**: June 28, 2024
+- **Camera-ready version due**: July 11, 2024
+- **Workshop**: August 26, 2024
+
+## Publication
+
+This workshop is *non-archival*. Relevant findings that have been published recently are welcome to be submitted to the workshop. For already published studies (including preprints), the paper can be submitted in the original format. Already peer-reviewed submissions will be lightly reviewed for their relevance to this workshop.
