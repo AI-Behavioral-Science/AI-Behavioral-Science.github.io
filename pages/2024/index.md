@@ -162,7 +162,7 @@ To be announced. -->
 | 8 | Behavioral Bias of Vision-Language Models: A Behavioral Finance View <br> Yuhang Xiao, Yudi Lin, Ming-Chang Chiu | [link](https://drive.google.com/file/d/1pw_uXmNfPUmE4uEUVufgMfebYd9orlYB/view?usp=sharing) |
 | 9 | How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games <br> Yutong Xie, Yiyao Liu, Zhuang Ma, Lin Shi, Xiyuan Wang, Qiaozhu Mei | [link](https://drive.google.com/file/d/1UduWG9tUnnuR0coSS0Mmg1k5WcPPKDvR/view?usp=sharing) |
 | 10 | Investigating Context Effects in Similarity Judgements in Large Language Models <br> Sagar Uprety, Amit Kumar Jaiswal, Haiming Liu, Dawei Song | [arXiv](https://arxiv.org/abs/2408.10711) |
-| 12 | Leveraging LLMs to Analyze Attention Allocation in Large-Scale Peer-to-Peer Mental Health Support Networks <br> Jason Huang, Hanson Yan, Connor Grogan, Teng Ye, Walter Yuan | [link]() |
+| 12 | Leveraging LLMs to Analyze Attention Allocation in Large-Scale Peer-to-Peer Mental Health Support Networks <br> Teng Ye,  Hanson Yan, Jason Huang, Connor Grogan, Qiaozhu Mei, Walter Yuan, Matt Jackson | [link](https://drive.google.com/file/d/1R4hjtqYBkT1ZCAHgOa4xG2Tcdgz7PBhj/view?usp=sharing) |
 
 # Organization
 Please contact us through <a target="_blank" href="http://scr.im/aibs">this email address</a> if you have any questions.
