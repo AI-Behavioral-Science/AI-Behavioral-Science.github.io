@@ -25,8 +25,8 @@ navigation:
   #   url: /glb2022#accepted-papers
   - title: "Organization"
     url: /2024#organization
-  # - title: "Past Editions"
-  #   url: /all-editions
+  - title: "Relevant Workshops"
+    url: /relevant
 
 keynotes: 
 - image_path: /assets/images/2024/li.jpeg
