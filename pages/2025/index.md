@@ -109,19 +109,19 @@ This workshop will explore four pivotal questions:
 This workshop aims to catalyze discussions and collaborations that will shape the future of this promising field by bringing together thought leaders and practitioners from across disciplines.
 
 
-# Schedule
+# Program
 
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
 | **09:00-09:20**    | **Opening Remarks** | 
-| **09:20-10:40**    | **Topic 1 Session** |
-| **11:00-12:20**    | **Topic 2 Session** |
+| **09:20-10:40**    | **Topic 1: How can AI serve as a transformative tool for behavioral science research?** <br> James Evans, Thomas Pfeiffer, Diyi Yang |
+| **11:00-12:20**    | **Topic 2: How can behavioral science principles enhance our ability to evaluate and interpret AI behaviors?** <br> Colin Camerer, Juanjuan Meng, Teng Ye |
 | **12:20-13:40**    | **Lunch Break and Discussion** |
-| **13:40-15:00**    | **Topic 3 Session** |
-| **15:20-16:40**    | **Topic 4 Session** |
+| **13:40-15:00**    | **Topic 3: How can understanding AI behaviors provide deeper insights into human decision-making processes?** <br> Brian Jabarian, Sendhil Mullainathan, Robb Willer |
+| **15:20-16:40**    | **Topic 4: How can we envision the future of human-AI collaboration to maximize societal benefits?** <br> Seth Benzell, Erik Brynjolfsson, Jon Kleinberg |
 | **16:40-17:00**    | **Summary and Closing Remarks** |
 
-Please note that the schedule is subject to change.
+Please note that the this preliminary program is subject to change.
 
 <!-- # Keynotes
 
