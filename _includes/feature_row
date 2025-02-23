@@ -11,13 +11,18 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            {% if f.image_height %}
             <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}" height="{{ f.image_height }}">
-            {% else %}
-            <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            {% endif %}
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}"
+              {% if f.image_width or f.image_height or f.padding_top or f.padding_right or f.padding_bottom or f.padding_left %}
+              style="{% if f.image_width %}width:{{ f.image_width }};{% endif %}
+                {% if f.image_height %}height:{{ f.image_height }};{% endif %}
+                {% if f.padding_top or f.padding_right or f.padding_bottom or f.padding_left %}padding:
+                {% if f.padding_top %}{{ f.padding_top }}{% else %}0px{% endif %}
+                {% if f.padding_right %}{{ f.padding_right }}{% else %}0px{% endif %}
+                {% if f.padding_bottom %}{{ f.padding_bottom }}{% else %}0px{% endif %}
+                {% if f.padding_left %}{{ f.padding_left }}{% else %}0px{% endif %};
+                {% endif %}"
+              {% endif %}>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}

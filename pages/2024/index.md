@@ -17,12 +17,12 @@ navigation:
     url: /2024/call-for-papers
   - title: "Schedule"
     url: /2024#schedule
-  - title: "Keynotes"
-    url: /2024#keynotes
-  - title: "Panelists"
-    url: /2024#panelists
-  # - title: "Accepted Papers"
-  #   url: /glb2022#accepted-papers
+  - title: "Keynote"
+    url: /2024#keynote-speaker
+  # - title: "Panelists"
+  #   url: /2024#panelists
+  - title: "Accepted Papers"
+    url: /2024#accepted-papers
   - title: "Organization"
     url: /2024#organization
   - title: "Relevant Workshops"
