@@ -12,9 +12,9 @@ header:
     overlay_filter: "0.5"
     overlay_image: /assets/images/bg.png
 feature_row:
-  - image_path: https://identity.stanford.edu/wp-content/uploads/sites/3/2020/06/wordmark-nospace-stacked-red.png 
+  - image_path: https://casbs.stanford.edu/sites/default/files/2022-06/casbswebsite_logo_125x125.png 
     image_width: "450px"
-    padding_top: "50px"
+    padding_top: "30px"
     padding_left: "50px"
     padding_right: "50px"
     title: "Workshop on AI Behavioral Science"
