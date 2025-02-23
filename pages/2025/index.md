@@ -121,7 +121,7 @@ This workshop aims to catalyze discussions and collaborations that will shape th
 | **15:20-16:40**    | **Topic 4: How can we envision the future of human-AI collaboration to maximize societal benefits?** <br> Seth Benzell, Erik Brynjolfsson, Jon Kleinberg |
 | **16:40-17:00**    | **Summary and Closing Remarks** |
 
-Please note that the this preliminary program is subject to change.
+Please note that this preliminary program is subject to change.
 
 <!-- # Keynotes
 
