@@ -15,8 +15,8 @@ header:
 navigation:
   # - title: "CFP"
   #   url: /2025/call-for-papers
-  - title: "Schedule"
-    url: /2025#schedule
+  - title: "Program"
+    url: /2025#program
   # - title: "Keynotes"
   #   url: /2025#keynotes
   # - title: "Panelists"
