@@ -118,7 +118,7 @@ This workshop aims to catalyze discussions and collaborations that will shape th
 | **11:00-12:20**    | **Topic 2: How can behavioral science principles enhance our ability to evaluate and interpret AI behaviors?** <br> Colin Camerer, Juanjuan Meng, Teng Ye |
 | **12:20-13:40**    | **Lunch Break and Discussion** |
 | **13:40-15:00**    | **Topic 3: How can understanding AI behaviors provide deeper insights into human decision-making processes?** <br> Brian Jabarian, Sendhil Mullainathan, Robb Willer |
-| **15:20-16:40**    | **Topic 4: How can we envision the future of human-AI collaboration to maximize societal benefits?** <br> Seth Benzell, Erik Brynjolfsson, Jon Kleinberg |
+| **15:20-16:40**    | **Topic 4: How can we envision the future of human-AI collaboration to maximize societal benefits?** <br> Seth Benzell, Erik Brynjolfsson, Jon Kleinberg, Asu Ozdaglar |
 | **16:40-17:00**    | **Summary and Closing Remarks** |
 
 Please note that this preliminary program is subject to change.
