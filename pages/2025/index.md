@@ -114,13 +114,13 @@ This workshop aims to catalyze discussions and collaborations that will shape th
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
 | **08:00-09:00**    | **Transportation, Registration, and Breakfast** |
-| **09:00-09:20**    | **Opening Remarks** | 
-| **09:20-10:40**    | **Topic 1: How can AI serve as a transformative tool for behavioral science research?** <br> James Evans, Thomas Pfeiffer, Diyi Yang |
-| **11:00-12:20**    | **Topic 2: How can behavioral science principles enhance our ability to evaluate and interpret AI behaviors?** <br> Colin Camerer, Juanjuan Meng, Teng Ye |
+| **09:00-09:20**    | **Opening Remarks** by Matthew O. Jackson (Stanford) | 
+| **09:20-10:40**    | **Topic 1: How can AI serve as a transformative tool for behavioral science research?** <br> James Evans (Chicago), Thomas Pfeiffer (Massey), Diyi Yang (Stanford) |
+| **11:00-12:20**    | **Topic 2: How can behavioral science principles enhance our ability to evaluate and interpret AI behaviors?** <br> Colin Camerer (Caltech), Juanjuan Meng (Peking University), Teng Ye (University of Minnesota) |
 | **12:20-13:40**    | **Lunch Break and Discussion** |
-| **13:40-15:00**    | **Topic 3: How can understanding AI behaviors provide deeper insights into human decision-making processes?** <br> Brian Jabarian, Stephanie W. Wang, Robb Willer |
-| **15:20-16:40**    | **Topic 4: How can we envision the future of human-AI collaboration to maximize societal benefits?** <br> Seth Benzell, Erik Brynjolfsson, Jon Kleinberg, Asu Ozdaglar |
-| **16:40-17:00**    | **Summary and Closing Remarks** |
+| **13:40-15:00**    | **Topic 3: How can understanding AI behaviors provide deeper insights into human decision-making processes?** <br> Brian Jabarian (Chicago), Stephanie W. Wang (University of Pittsburgh), Robb Willer (Stanford) |
+| **15:20-16:40**    | **Topic 4: How can we envision the future of human-AI collaboration to maximize societal benefits?** <br> Seth Benzell (Chapman), Erik Brynjolfsson (Stanford), Jon Kleinberg (Cornell), Asu Ozdaglar (MIT) |
+| **16:40-17:00**    | **Summary and Closing Remarks** by Qiaozhu Mei (University of Michigan) |
 | **17:00-19:00**    | **Dinner Reception** |
 
 Please note that this preliminary program is subject to change.
