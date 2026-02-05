@@ -94,7 +94,6 @@ organizers:
 
 ---
 
-
 # Overview
 
 The field of AI Behavioral Science is rapidly emerging at the intersection of artificial intelligence and behavioral science research. As AI systems increasingly shape human experiences— ranging from influencing decision-making on social media to automating tasks in the labor market— behavioral scientists and AI researchers face the critical challenge of understanding and guiding these interactions for positive outcomes. Central to this endeavor is the study of behaviors exhibited by sophisticated AI models, trained on vast human datasets and iteratively refined through human feedback.
@@ -108,6 +107,7 @@ This workshop will explore four pivotal questions:
 
 This workshop aims to catalyze discussions and collaborations that will shape the future of this promising field by bringing together thought leaders and practitioners from across disciplines.
 
+**Paper**: [AI Behavioral Science](https://arxiv.org/pdf/2509.13323) [[arXiv](https://arxiv.org/abs/2509.13323)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395006)]
 
 # Program
 
