@@ -88,17 +88,30 @@ organizers:
 
 # Overview
 
-The 2nd Workshop on AI Behavioral Science (AIBS 2026) is the second annual event bringing together leading researchers and practitioners at the intersection of artificial intelligence and behavioral science. Building on the successful [inaugural workshop in 2025](https://ai-behavioral-science.github.io/2025), which explored the foundational aspects of AI Behavioral Science, the 2026 workshop will focus specifically on **human-AI interaction**. This event will feature discussions across three core themes: 
+The 2nd Workshop on AI Behavioral Science (AIBS 2026) is the second annual event bringing together leading researchers and practitioners at the intersection of artificial intelligence and behavioral science. Building on the successful [inaugural workshop in 2025](https://ai-behavioral-science.github.io/2025), which explored the foundational aspects of AI Behavioral Science, the 2026 workshop will focus specifically on **human-AI interaction**. This event will feature discussions across four core themes: 
 
 1. Human Perception and Mental Models of AI
 1. AI as Decision Support and Behavioral Intervention
 1. Strategic Interaction Between Humans and AI
+1. Instruments for AI Behavioral Science
 
 This workshop aims to catalyze discussions and collaborations that will shape the future of this promising field by bringing together thought leaders and practitioners from across disciplines.
 
 # Program
 
-To be announced. 
+| Time (PDT) | Agenda |
+| ----------------- | ------------ |
+| **08:00-08:30**    | **Transportation, Registration, and Breakfast** |
+| **08:30-09:00**    | **Opening Remarks** by Matthew O. Jackson (Stanford) | 
+| **09:00-10:30**    | **Topic 1: Human Perception and Mental Models of AI** <br> Bnaya Dreyfuss (Harvard), Jessica Hullman (Northwestern), Aaron Schecter (University of Georgia) |
+| **11:00-12:30**    | **Topic 2: AI as Decision Support and Behavioral Intervention** <br> James Evans (University of Chicago), Sophia Kazinnik (Stanford), Yijia Shao (Stanford) |
+| **12:30-13:30**    | **Lunch Break and Discussion** |
+| **13:30-15:00**    | **Topic 3: Strategic Interaction Between Humans and AI** <br> Colin Camerer (Caltech), Thomas W. Malone (MIT), Asu Ozdaglar (MIT) |
+| **15:20-16:50**    | **Topic 4: Instruments for AI Behavioral Science** <br> Kevin Leyton-Brown (University of British Columbia), Yiming Liu (Humboldt University of Berlin), Yutong Xie (University of Michigan) |
+| **16:50-17:00**    | **Summary and Closing Remarks** by Qiaozhu Mei (University of Michigan) |
+| **17:00-19:00**    | **Dinner Reception** |
+
+Please note that this preliminary program is subject to change.
 
 <!-- # Keynotes
 
