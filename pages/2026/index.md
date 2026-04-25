@@ -102,14 +102,13 @@ This workshop aims to catalyze discussions and collaborations that will shape th
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
 | **08:00-08:30**    | **Transportation, Registration, and Breakfast** |
-| **08:30-09:00**    | **Opening Remarks** by Matthew O. Jackson (Stanford) | 
-| **09:00-10:30**    | **Topic 1: Human Perception and Mental Models of AI** <br> Bnaya Dreyfuss (Harvard), Jessica Hullman (Northwestern), Aaron Schecter (UGA) |
-| **11:00-12:30**    | **Topic 2: AI as Decision Support and Behavioral Intervention** <br> James Evans (Chicago), Sophia Kazinnik (Stanford), Yijia Shao (Stanford) |
-| **12:30-13:30**    | **Lunch Break and Discussion** |
+| **08:30-10:00**    | **Topic 1: Human Perception and Mental Models of AI** <br> Bnaya Dreyfuss (Harvard), Jessica Hullman (Northwestern), Aaron Schecter (UGA) |
+| **10:30-12:00**    | **Topic 2: AI as Decision Support and Behavioral Intervention** <br> James Evans (Chicago), Sophia Kazinnik (Stanford), Yijia Shao (Stanford) |
+| **12:00-13:30**    | **Lunch Break and Discussion** |
 | **13:30-15:00**    | **Topic 3: Strategic Interaction Between Humans and AI** <br> Colin Camerer (Caltech), Thomas W. Malone (MIT), Asu Ozdaglar (MIT) |
-| **15:20-16:50**    | **Topic 4: Instruments for AI Behavioral Science** <br> Yiming Liu (Humboldt), Yutong Xie (Michigan), Kevin Leyton-Brown (UBC) |
-| **16:50-17:00**    | **Summary and Closing Remarks** by Qiaozhu Mei (Michigan) |
-| **17:00-19:00**    | **Dinner Reception** |
+| **15:20-17:20**    | **Topic 4: Instruments for AI Behavioral Science** <br> Yiming Liu (Humboldt), Yutong Xie (Michigan), Kevin Leyton-Brown (UBC), Matthew O. Jackson (Stanford) |
+| **17:20-17:30**    | **Summary and Closing Remarks** | 
+| **17:30-20:00**    | **Dinner Reception** |
 
 Please note that this preliminary program is subject to change.
 
