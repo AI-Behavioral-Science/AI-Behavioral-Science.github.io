@@ -105,7 +105,7 @@ This workshop aims to catalyze discussions and collaborations that will shape th
 | **08:30-10:00**    | **Topic 1: Human Perception and Mental Models of AI** <br> Bnaya Dreyfuss (Harvard), Jessica Hullman (Northwestern), Aaron Schecter (UGA) |
 | **10:30-12:00**    | **Topic 2: AI as Decision Support and Behavioral Intervention** <br> James Evans (Chicago), Sophia Kazinnik (Stanford), Yijia Shao (Stanford) |
 | **12:00-13:30**    | **Lunch Break and Discussion** |
-| **13:30-15:00**    | **Topic 3: Strategic Interaction Between Humans and AI** <br> Colin Camerer (Caltech), Thomas W. Malone (MIT), Zachary Wojtowicz and Dingwen Kong (MIT) |
+| **13:30-15:00**    | **Topic 3: Strategic Interaction Between Humans and AI** <br> Colin Camerer (Caltech), Thomas W. Malone (MIT), Zachary Wojtowicz (MIT) |
 | **15:20-17:20**    | **Topic 4: Instruments for AI Behavioral Science** <br> Yiming Liu (Humboldt), Yutong Xie (Michigan), Kevin Leyton-Brown (UBC), Matthew O. Jackson (Stanford) |
 | **17:20-17:30**    | **Summary and Closing Remarks** | 
 | **17:30-20:00**    | **Dinner Reception** |
